@@ -23,8 +23,8 @@ Add your timetable using `<td>` tag.
 Execute the program using runserver command.
 
 # PROGRAM
-<html>
-   <title>title</title>
+    <html>
+    <title>title</title>
        <body>
         <img src="logo.png" height="100" width="540">
           <table border="6" cellspacing="4" cellpadding="4">
