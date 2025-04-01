@@ -91,7 +91,7 @@ Execute the program using runserver command.
           </table>
           <table border="4" cellspacing="4" cellpadding="4">
 
-<caption>SUBJECT AND THEIR RESPECTIVE SUBJECT CODES </caption>
+    /<caption>SUBJECT AND THEIR RESPECTIVE SUBJECT CODES </caption>
                      <tr>
                     <th align="center" bgcolor="blue">S.NO</th>
                     <th align="center" bgcolor="blue">Subject Code</th>
